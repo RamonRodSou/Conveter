@@ -1,0 +1,2 @@
+API
+https://app.exchangerate-api.com/

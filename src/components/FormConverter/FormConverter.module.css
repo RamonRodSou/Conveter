@@ -1,0 +1,6 @@
+@import url('../../Variavel/_color.css');
+
+.formConverter {
+    gap: .5rem;
+    width: 80%;
+}
